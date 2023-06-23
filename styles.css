@@ -4,8 +4,15 @@
 .holder
 {
 	width=200px;
+	height=500px;
 	display:grid;
+	grid-gap:8px;
 	
   grid-template: 1fr 1fr / 1fr 1fr;
   
+}
+
+.item
+{
+	background-color:blue;
 }
