@@ -4,9 +4,9 @@
 .holder
 {
 	width=200px;
-	height=500px;
+	height=200px;
 	display:grid;
-	grid-gap:8px;
+	
 	
   grid-template: 1fr 1fr / 1fr 1fr;
   
